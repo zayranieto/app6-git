@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>13</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor-app6</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/convex/</ImageTemplate>
+            <ImageTemplateName>Convex</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#54ACD2</TemplateColor>
+            <TemplateFont>Gurajada</TemplateFont>
+            <TemplateName>convex</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>E:/DAM/Tercer Parcial/app6/imagenes/images.jpg</url>
+                <title>Fecha</title>
+                <filesize>5682</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/Tercer Parcial/app6/imagenes/278w.jpg</url>
+                <filesize>73776</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/Tercer Parcial/app6/imagenes/952914_orig.jpg</url>
+                <title>Bandera Francia</title>
+                <filesize>25504</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/Tercer Parcial/app6/imagenes/Batalla_de_Puebla DIBUJO.jpg</url>
+                <title>Batalla_de_Puebla </title>
+                <filesize>420635</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/Tercer Parcial/app6/imagenes/Batalla-de-Puebla.jpg</url>
+                <title>Batalla-de-Puebla</title>
+                <filesize>44848</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/Tercer Parcial/app6/imagenes/descarga (2).jpg</url>
+                <title>Bandera México</title>
+                <filesize>51284</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/Tercer Parcial/app6/imagenes/descarga.jpg</url>
+                <filesize>9042</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/Tercer Parcial/app6/imagenes/francharmy.jpg</url>
+                <filesize>43074</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
